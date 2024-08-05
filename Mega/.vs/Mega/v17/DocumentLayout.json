@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\data\\megauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\data\\megauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\data\\dbmegacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\data\\dbmegacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\migrations\\20240805044621_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\migrations\\20240805044621_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 839,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +67,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T07:26:50.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T07:05:16.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAqwIAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:05:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\appsettings.json",
+              "RelativeDocumentMoniker": "Mega\\appsettings.json",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\appsettings.json",
+              "RelativeToolTip": "Mega\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T04:45:04.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbMegaContext.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
+              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
+              "RelativeToolTip": "Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:37:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MegaUser.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\MegaUser.cs",
+              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Data\\MegaUser.cs",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\MegaUser.cs",
+              "RelativeToolTip": "Mega\\Areas\\Identity\\Data\\MegaUser.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:35:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mega\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mega\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T04:28:20.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240805044621_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Migrations\\20240805044621_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Mega\\Migrations\\20240805044621_InitialMigration.cs",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Migrations\\20240805044621_InitialMigration.cs",
+              "RelativeToolTip": "Mega\\Migrations\\20240805044621_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:46:23.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Program.cs",
+              "RelativeDocumentMoniker": "Mega\\Program.cs",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Program.cs",
+              "RelativeToolTip": "Mega\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:33:47.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Mega\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Mega\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-05T04:22:53.261Z",
+              "EditorCaption": ""
             }
           ]
         }
