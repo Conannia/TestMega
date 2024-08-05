@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mega", "Mega\Mega.csproj", "{9AD958AE-5058-451D-BE7B-0B647DE37633}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mega", "Mega\Mega.csproj", "{9AD958AE-5058-451D-BE7B-0B647DE37633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaWebApi", "..\MegaWebApi\MegaWebApi.csproj", "{AB34FE0D-9846-487B-A31B-B7811CF74594}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9AD958AE-5058-451D-BE7B-0B647DE37633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD958AE-5058-451D-BE7B-0B647DE37633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD958AE-5058-451D-BE7B-0B647DE37633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB34FE0D-9846-487B-A31B-B7811CF74594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB34FE0D-9846-487B-A31B-B7811CF74594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB34FE0D-9846-487B-A31B-B7811CF74594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB34FE0D-9846-487B-A31B-B7811CF74594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

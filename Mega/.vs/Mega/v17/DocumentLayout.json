@@ -3,56 +3,10 @@
   "WorkspaceRootPath": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB34FE0D-9846-487B-A31B-B7811CF74594}|..\\MegaWebApi\\MegaWebApi.csproj|d:\\nurul file\\mega\\testmega\\megawebapi\\megawebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\data\\megauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\data\\megauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\migrations\\20240805044621_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\migrations\\20240805044621_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\areas\\identity\\data\\dbmegacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\areas\\identity\\data\\dbmegacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|d:\\nurul file\\mega\\testmega\\mega\\mega\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9AD958AE-5058-451D-BE7B-0B647DE37633}|Mega\\Mega.csproj|solutionrelative:mega\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AB34FE0D-9846-487B-A31B-B7811CF74594}|..\\MegaWebApi\\MegaWebApi.csproj|d:\\nurul file\\mega\\testmega\\megawebapi\\models\\trbpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +16,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 839,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrBpkb.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\MegaWebApi\\Models\\TrBpkb.cs",
+              "RelativeDocumentMoniker": "..\\MegaWebApi\\Models\\TrBpkb.cs",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\MegaWebApi\\Models\\TrBpkb.cs",
+              "RelativeToolTip": "..\\MegaWebApi\\Models\\TrBpkb.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:59:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MegaWebApi",
+              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\MegaWebApi\\MegaWebApi.csproj",
+              "RelativeDocumentMoniker": "..\\MegaWebApi\\MegaWebApi.csproj",
+              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\MegaWebApi\\MegaWebApi.csproj",
+              "RelativeToolTip": "..\\MegaWebApi\\MegaWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T09:52:27.486Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -79,164 +59,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Mega\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Mega\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T07:38:58.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Mega\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Mega\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAFYAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T07:36:23.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAArwIoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T07:05:10.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DbMegaContext.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
-              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
-              "RelativeToolTip": "Mega\\Areas\\Identity\\Data\\DbMegaContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:37:32.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240805044621_InitialMigration.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Migrations\\20240805044621_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Mega\\Migrations\\20240805044621_InitialMigration.cs",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Migrations\\20240805044621_InitialMigration.cs",
-              "RelativeToolTip": "Mega\\Migrations\\20240805044621_InitialMigration.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwCoAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:46:23.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MegaUser.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\MegaUser.cs",
-              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Data\\MegaUser.cs",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Data\\MegaUser.cs",
-              "RelativeToolTip": "Mega\\Areas\\Identity\\Data\\MegaUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:35:53.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Mega\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Mega\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T07:50:06.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\appsettings.json",
-              "RelativeDocumentMoniker": "Mega\\appsettings.json",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\appsettings.json",
-              "RelativeToolTip": "Mega\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-05T04:45:04.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Mega\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T07:05:16.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Mega\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Mega\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T04:28:20.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Mega\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T07:26:50.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Program.cs",
-              "RelativeDocumentMoniker": "Mega\\Program.cs",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\Program.cs",
-              "RelativeToolTip": "Mega\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:33:47.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Mega\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\Nurul FILE\\Mega\\TestMega\\Mega\\Mega\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Mega\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-05T04:22:53.261Z"
             }
           ]
         }
