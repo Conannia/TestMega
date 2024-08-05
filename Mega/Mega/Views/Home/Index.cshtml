@@ -1,8 +1,105 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Identity
+@using Mega.Areas.Identity.Data
+
+@inject SignInManager<MegaUser> SignInManager
+@inject UserManager<MegaUser> UserManager
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
+
+
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <div>
+            <h1 class="display-4">Welcome @UserManager.GetUserName(User)!</h1>
+            <form>
+                <div class="form-row" style="display:flex;">
+                    <div class="form-group col-md-5" >
+                        <label for="agreementNumber">Agreement Number</label>
+                        <input type="text" class="form-control" id="agreementNumber" placeholder="Input Agreement Number">
+                    </div>
+                    <div class="form-group col-md-2">
+                    </div>
+                    <div class="form-group col-md-5">
+                        <label for="tanggalFaktur">Tanggal Faktur</label>
+                        <input type="date" class="form-control" id="tanggalFaktur" placeholder="mm/dd/yyyy">
+                    </div>
+                </div>
+                <div class="form-row" style="display:flex;">
+                    <div class="form-group col-md-5">
+                        <label for="branchId">Branch Id</label>
+                        <input type="text" class="form-control" id="branchId" placeholder="Input Branch Id">
+                    </div>
+                    <div class="form-group col-md-2">
+                    </div>
+                    <div class="form-group col-md-5">
+                        <label for="nomorPolisi">Nomor Polisi</label>
+                        <input type="text" class="form-control" id="nomorPolisi" placeholder="Input Nomor Polisi">
+                    </div>
+                </div>
+                <div class="form-row" style="display:flex;">
+                    <div class="form-group col-md-5">
+                        <label for="noBpkb">No. BPKB</label>
+                        <input type="text" class="form-control" id="noBpkb" placeholder="Input No. BPKB">
+                    </div>
+                    <div class="form-group col-md-2">
+                    </div>
+                    <div class="form-group col-md-5">
+                        <label for="lokasiPenyimpanan">Lokasi Penyimpanan</label>
+                        <select id="lokasiPenyimpanan" class="form-control">
+                            <option selected>Select Lokasi Penyimpanan</option>
+                            <option>Lokasi 1</option>
+                            <option>Lokasi 2</option>
+                            <option>Lokasi 3</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-5">
+                        <label for="tanggalBpkbIn">Tanggal BPKB In</label>
+                        <input type="date" class="form-control" id="tanggalBpkbIn" placeholder="mm/dd/yyyy">
+                    </div>
+                    <div class="form-group col-md-5">
+                        <label for="tanggalBpkb">Tanggal BPKB</label>
+                        <input type="date" class="form-control" id="tanggalBpkb" placeholder="mm/dd/yyyy">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-5">
+                        <label for="noFaktur">No. Faktur</label>
+                        <input type="text" class="form-control" id="noFaktur" placeholder="Input No. Faktur">
+                    </div>
+                </div>
+                <br/>
+                <br />
+                <br />
+                <div class="form-row" style="display:flex;">
+                    <div class="form-group col-md-5">
+                        <button type="submit" class="btn btn-primary" style="width:100%">Save</button>
+                    </div>
+                    <div class="form-group col-md-2">
+                    </div>
+                    <div class="form-group col-md-5">
+                        <button type="reset" class="btn btn-secondary" style="width:100%">Cancel</button>
+                    </div>
+                </div>
+
+                
+                
+            </form>
+            
+        </div>
+    } else
+    {
+        <div>
+            <h1 class="display-4">Please Login or Register</h1>
+            <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+
+    }
+    
 </div>
